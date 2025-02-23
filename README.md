@@ -13,8 +13,6 @@
 - **风扇模块**：
 - **光敏电阻**：
 
-（以上器材皆为学校实验室）
-
 - **信泰微ASR-PRO语音模块**：  
   购买链接：[淘宝链接](https://detail.tmall.com/item.htm?id=693060856818&ns=1&priceTId=213e030c17403200954421683ef14b&skuId=5093606658682&spm=a21n57.1.hoverItem.1&utparam=%7B%22aplus_abtest%22%3A%2219f843913bce914f711510f410824c4f%22%7D&xxc=ad_ztc) 或淘宝搜索
 
